@@ -1,0 +1,27 @@
+{
+  "name": "typescriptbaseproject",
+  "version": "1.0.0",
+  "description": "1. Installer nodejs [https://nodejs.org/fr/download](NodeJs)\r 2. Se placer dans le répertoire de vos projets (ce répertoire doit exister au préalable) et faire le git clone",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "live-server --port=8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMCognitic/TypescriptBaseProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TMCognitic/TypescriptBaseProject/issues"
+  },
+  "homepage": "https://github.com/TMCognitic/TypescriptBaseProject#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "typescript": "^7.0.2"
+  }
+}
