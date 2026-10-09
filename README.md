@@ -25,9 +25,8 @@ npm install
 5. Lancer les commandes pour démarrer vos projets
 
 ``` bash
+# npm run watch (recompile à chaque sauvegarde)
 npm run watch
+# npm run serve (fourni la page avec un rechargement automatique)
 npm run serve
 ```
-
--> npm run watch (recompile à chaque sauvegarde)
--> npm run serve (fourni la page avec un rechargement automatique)
