@@ -22,7 +22,7 @@ cd TypescriptBaseProject
 npm install
 ```
 
-5. Lancer les commandes pour démarrer vos projets
+5. Lancer les commandes pour démarrer vos projets dans un terminal distinct pour chaque commande
 
 ``` bash
 # npm run watch (recompile à chaque sauvegarde)
