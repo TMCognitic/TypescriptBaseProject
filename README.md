@@ -2,7 +2,7 @@
 
 ## Mise en place
 
-1. Installer nodejs [https://nodejs.org/fr/download](NodeJs)
+1. Installer nodejs [https://nodejs.org/fr/download](NodeJs) & git [https://git-scm.com](Git)
 2. Se placer dans le répertoire de vos projets (ce répertoire doit exister au préalable) et faire le git clone
 
 ``` bash
