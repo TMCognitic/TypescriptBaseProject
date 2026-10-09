@@ -1,5 +1,5 @@
 const div : HTMLElement | null = document.getElementById("screen");
-const message : string = "Bonjour les WAD 26, comment allez-vous ?";
+const message : string = "Bonjour tout le monde, comment allez-vous ?";
 
 if(div) div.innerText = message;
 
