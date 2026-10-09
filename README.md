@@ -6,7 +6,7 @@
 2. Se placer dans le répertoire de vos projets (ce répertoire doit exister au préalable) et faire le git clone
 
 ``` bash
-cd /source
+cd <repertoire ou se trouve vos project> # exemple cd /projects
 git clone https://github.com/TMCognitic/TypescriptBaseProject.git
 ```
 
