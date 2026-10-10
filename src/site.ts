@@ -1,10 +1,10 @@
-const div : HTMLDivElement | null = document.querySelector<HTMLDivElement>("#screen");
-const message : string = "Bonjour tout le monde, comment allez-vous ?";
+const title : HTMLTitleElement | null = document.querySelector<HTMLTitleElement>("#title");
+const message : string = "Bienvenue sur le Playground TS";
 
 try {
-    if(!div) throw Error("no screenDiv");
+    if(!title) throw Error("no title");
 
-    div.innerText = message;
+    title.innerText = message;
     console.log(message);
 } catch (error) {
     console.error(error)

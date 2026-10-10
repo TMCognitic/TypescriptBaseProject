@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "1. Installer nodejs [https://nodejs.org/fr/download](NodeJs)\r 2. Se placer dans le répertoire de vos projets (ce répertoire doit exister au préalable) et faire le git clone",
   "main": "index.js",
-  "scripts": {
+  "scripts": {    
     "build": "tsc",
     "watch": "tsc --watch --preserveWatchOutput",
     "serve": "live-server --port=8080",
